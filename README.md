@@ -39,3 +39,7 @@
 <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
 </a>
+<a href="https://godotengine.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="GDScript / Godot" width="40" height="40"/>
+</a>
+
