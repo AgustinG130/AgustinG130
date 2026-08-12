@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-- 🔭 I’m currently working on ?
-- 🌱 I’m currently learning ?
+- 🔭 I’m currently exploring Godot Engine with .NET after working with GDScript.
+- 🌱 I’m currently learning 3D development with Godot Engine.
 - 📫 How to reach me: ...
 
 ### Technologies and Programming Languages
